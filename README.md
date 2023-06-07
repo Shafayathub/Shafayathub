@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://developer-shafayat.vercel.app/MD_Shafayat_Islam.pdf](https://developer-shafayat.vercel.app/MD_Shafayat_Islam.pdf)
 
-<img align="right" alt="MD_SHAFAYAT_ISLAM" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw25JCtXWnfzYQM6MfYKVE6k&ust=1686220298383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiIvqH6sP8CFQAAAAAdAAAAABAE"/>
+<img align="right" alt="MD_SHAFAYAT_ISLAM" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw25JCtXWnfzYQM6MfYKVE6k&ust=1686220298383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiIvqH6sP8CFQAAAAAdAAAAABAE"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
