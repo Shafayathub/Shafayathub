@@ -1,6 +1,7 @@
 ![logo](https://github.com/Shafayathub/Shafayathub/blob/main/1639825320614.jpg)
 <h1 align="center">Hi 👋, I'm MD Shafayat Islam</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">Web Developer | Team Player | Learner</h3>
+<h3 align="center">Currently working at Programming Hero Apollo Next Level Develompent Team</h3>
 
 - 👨‍💻 All of my projects are available at [https://developer-shafayat.vercel.app/](https://developer-shafayat.vercel.app/)
 
