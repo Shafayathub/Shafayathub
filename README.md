@@ -1,19 +1,47 @@
-![logo](https://github.com/Shafayathub/Shafayathub/blob/main/1639825320614.jpg)
-<h1 align="center">Hi 👋, I'm MD Shafayat Islam</h1>
-<h3 align="center">Web Developer | Team Player | Learner</h3>
-<h3 align="center">Currently working at Programming Hero Apollo Next Level Develompent Team</h3>
+---
 
-- 👨‍💻 All of my projects are available at [https://developer-shafayat.vercel.app/](https://developer-shafayat.vercel.app/)
+# Hi there, I'm [MD Shafayat Islam]! 👋
 
-- 📫 How to reach me **shafayat.ms@gmail.com**
+I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating high-quality solutions and building innovative web applications. With a background outside of traditional computer science, I’ve embraced the tech world and continue to grow through practical experience, working on real-world projects, and constantly improving my skillset.
 
-- 📄 Know about my experiences [https://developer-shafayat.vercel.app/MD_Shafayat_Islam.pdf](https://developer-shafayat.vercel.app/MD_Shafayat_Islam.pdf)
+### 🛠️ Technologies & Tools I Work With:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/-Mongoose-AA2929?logoColor=white&style=for-the-badge)
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+
+![Zod](https://img.shields.io/badge/-Zod-001F3F?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 
-<h3 align="left">Connect with me through LinkedIn</h3>
-<p align="left">
-  [https://www.linkedin.com/in/md-shafayat-islam-97000110b/](https://www.linkedin.com/in/md-shafayat-islam-97000110b/)
-</p>
+### 💡 Goals:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Deliver high-quality, maintainable code in every project.
+- Stay updated with the latest web technologies and best practices.
+
+### 🌱 Fun Facts:
+- I'm passionate about web development and enjoy working on challenging projects.
+- Outside of coding, I enjoy spending time with family and friends and travelling.
+
+### 📫 Let’s Connect:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](#)
+
+---
