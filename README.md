@@ -1,5 +1,9 @@
 ---
 
+# ![Cover Image](https://github.com/Shafayathub/Shafayathub/blob/main/1639825320614.jpg?raw=true)
+
+---
+
 # Hi there, I'm [MD Shafayat Islam]! 👋
 
 I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating high-quality solutions and building innovative web applications. With a background outside of traditional computer science, I’ve embraced the tech world and continue to grow through practical experience, working on real-world projects, and constantly improving my skillset.
