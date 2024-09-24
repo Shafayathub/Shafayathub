@@ -40,8 +40,8 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ### 📫 Let’s Connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-shafayat-islam-97000110b/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:shafayat.ph@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://developer-shafayat.vercel.app/)
 
 ---
