@@ -8,6 +8,7 @@
 
 I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating high-quality solutions and building innovative web applications. With a background outside of traditional computer science, I’ve embraced the tech world and continue to grow through practical experience, working on real-world projects, and constantly improving my skillset.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/your-Shafayathub)
 ### 🛠️ Technologies & Tools I Work With:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -49,7 +50,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://developer-shafayat.vercel.app/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/your-Shafayathub)
+
 
 
 
