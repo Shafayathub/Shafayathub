@@ -32,13 +32,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
-### 🔥 My Stats:
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayathub&show_icons=true&theme=dark)](https://github.com/Shafayathub)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/Shafayathub)
 
 ### 💡 Goals:
 
@@ -56,6 +50,14 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://developer-shafayat.vercel.app/)
 
 ---
+
+### 🔥 My Stats:
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayathub&show_icons=true&theme=dark)](https://github.com/Shafayathub)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/Shafayathub)
 
 
 
