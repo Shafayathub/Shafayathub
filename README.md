@@ -8,14 +8,6 @@
 
 I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating high-quality solutions and building innovative web applications. With a background outside of traditional computer science, I’ve embraced the tech world and continue to grow through practical experience, working on real-world projects, and constantly improving my skillset.
 
-# 🔥 My Stats:
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayathub&show_icons=true&theme=dark)](https://github.com/Shafayathub)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/Shafayathub)
-
 ### 🛠️ Technologies & Tools I Work With:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -40,6 +32,13 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
+### 🔥 My Stats:
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayathub&show_icons=true&theme=dark)](https://github.com/Shafayathub)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/Shafayathub)
 
 ### 💡 Goals:
 
