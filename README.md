@@ -50,7 +50,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub)](https://git.io/streak-stats)
+
 
 
 
