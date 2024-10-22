@@ -49,3 +49,10 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://developer-shafayat.vercel.app/)
 
 ---
+
+
+### 🔥 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)](https://git.io/streak-stats)
+
+
