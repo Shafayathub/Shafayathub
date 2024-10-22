@@ -40,7 +40,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ### 🌱 Fun Facts:
 - I'm passionate about web development and enjoy working on challenging projects.
-- Outside of coding, I enjoy spending time with family and friends and travelling.
+- Outside of coding, I enjoy spending time with family and friends and traveling.
 
 ### 📫 Let’s Connect:
 
@@ -50,9 +50,5 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ---
 
-
-### 🔥 My Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)](https://git.io/streak-stats)
 
 
