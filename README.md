@@ -49,7 +49,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://developer-shafayat.vercel.app/)
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayathub&layout=compact&theme=dark)](https://github.com/your-Shafayathub)
 
 
 
