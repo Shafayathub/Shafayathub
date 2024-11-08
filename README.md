@@ -51,9 +51,6 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ---
 
-### 🔥 My Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayathub&theme=dark)](https://git.io/streak-stats)
 
 
 
