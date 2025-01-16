@@ -41,7 +41,7 @@ I'm a **Full-Stack Developer** and **Web Instructor** passionate about creating 
 
 ### 🌱 Fun Facts:
 - I'm passionate about web development and enjoy working on challenging projects.
-- Outside of coding, I enjoy riding a bike going to unknown places, and talking to the local people.
+- Outside of coding, I enjoy riding a bike and exploring rural areas.
 
 ### 📫 Let’s Connect:
 
